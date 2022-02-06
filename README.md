@@ -1,4 +1,4 @@
-# ATOPSAR-PLOT
+# Atopsar-Plot
 
 This is a mirror of the original repository at https://codeberg.org/mgellner/atopsar-plot/
 
